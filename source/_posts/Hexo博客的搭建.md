@@ -3,21 +3,21 @@ title: Hexo博客的搭建
 date: 2018-10-01 20:51:50
 tags: 
 categories: 其他
-description: Hexo博客的搭建
+description: 
 ---
 
 ### 本地部署
-1. 安装nodejs  
+1. 安装NodeJs  
 
 ```
 http://nodejs.cn
 ```
-2. 安装git  
+2. 安装Git  
 
 ```
 https://git-scm.com/downloads
 ```
-3. 使用npm安装Hexo  
+3. 使用npm安装Hexo
 
 ```
 npm install -g hexo-cli
