@@ -131,6 +131,12 @@ git branch -d <branchname>
 git branch -D <branchname>
 ```
 
+删除远程分支
+
+```
+git push origin --delete <BranchName>
+```
+
 本地推送分支
 
 ```
