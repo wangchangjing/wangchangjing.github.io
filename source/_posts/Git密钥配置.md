@@ -17,7 +17,7 @@ Git使用HTTPS协议，每次pull、 push都要输入密码，使用SSH协议，
 ```
 ssh-keygen -t rsa -C "你的Git邮箱"
 ```
-
+直接回车即可：
 ```
 Enter file in which to save the key (/c/Users/flashbuy/.ssh/id_rsa): //密钥保存位置，回车默认
 Enter passphrase (empty for no passphrase):                          //输入密码，直接回车
@@ -66,6 +66,7 @@ D:\Git\usr\bin>
 ```
 ssh -T git@github.com
 ```
+执行成功后的效果：
 ```
 Hi wangchangjing! You've successfully authenticated, but GitHub does not provide shell access.
 ```
