@@ -2,7 +2,7 @@
 title: Hexo博客的搭建
 date: 2018-10-01 20:51:50
 tags: 
-categories: 其他
+categories: Hexo
 description: 
 ---
 
